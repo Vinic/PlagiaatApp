@@ -1,2 +1,4 @@
 ﻿/* Page-specific styling */
-
+.content-footer:active {
+     background: #fcb215!important;
+ }

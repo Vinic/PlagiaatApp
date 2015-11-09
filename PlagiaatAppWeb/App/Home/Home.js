@@ -7,8 +7,6 @@
     Office.initialize = function (reason) {
         $(document).ready(function () {
             app.initialize();
-
-            $('#get-data-from-selection').click(getDataFromSelection);
         });
     };
 
@@ -24,6 +22,4 @@
             }
         );
     }
-
-
 })();
